@@ -1,0 +1,15 @@
+C:\Users\Muhammad Rashid\source\repos\RashidProject_OS\bin\Debug\RashidProject_OS.exe.config
+C:\Users\Muhammad Rashid\source\repos\RashidProject_OS\bin\Debug\RashidProject_OS.exe
+C:\Users\Muhammad Rashid\source\repos\RashidProject_OS\bin\Debug\RashidProject_OS.pdb
+C:\Users\Muhammad Rashid\source\repos\RashidProject_OS\obj\Debug\RashidProject_OS.csprojAssemblyReference.cache
+C:\Users\Muhammad Rashid\source\repos\RashidProject_OS\obj\Debug\RashidProject_OS.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Rashid\source\repos\RashidProject_OS\obj\Debug\RashidProject_OS.exe
+C:\Users\Muhammad Rashid\source\repos\RashidProject_OS\obj\Debug\RashidProject_OS.pdb
+C:\Users\muxxa\Downloads\Rashid Project and Report OS\RashidProject_OS\bin\Debug\RashidProject_OS.exe.config
+C:\Users\muxxa\Downloads\Rashid Project and Report OS\RashidProject_OS\bin\Debug\RashidProject_OS.exe
+C:\Users\muxxa\Downloads\Rashid Project and Report OS\RashidProject_OS\bin\Debug\RashidProject_OS.pdb
+C:\Users\muxxa\Downloads\Rashid Project and Report OS\RashidProject_OS\obj\Debug\RashidProject_OS.csproj.AssemblyReference.cache
+C:\Users\muxxa\Downloads\Rashid Project and Report OS\RashidProject_OS\obj\Debug\RashidProject_OS.csproj.SuggestedBindingRedirects.cache
+C:\Users\muxxa\Downloads\Rashid Project and Report OS\RashidProject_OS\obj\Debug\RashidProject_OS.csproj.CoreCompileInputs.cache
+C:\Users\muxxa\Downloads\Rashid Project and Report OS\RashidProject_OS\obj\Debug\RashidProject_OS.exe
+C:\Users\muxxa\Downloads\Rashid Project and Report OS\RashidProject_OS\obj\Debug\RashidProject_OS.pdb
